@@ -1,0 +1,24 @@
+Blood donation app reviewes:
+1. Friends2Support.org(4.2 rated)
+	Review by users:
+	suggestions to get more things done very easily, sending the requirement of blood to all people by personal messages would be a time taking task, so i here with suggest the app developers to add features so that those who want blood can give a message with all the details and just post in app, so the same message gets delivered to all the registered donors, like a message of group chat in whatsapp. 
+
+	Another feature is to put in available or not available mode.
+
+What i have found is - Bad user interface in all these apps
+
+Features in the application:
+Two options at the start of the app - Donor or Reciever/ Emergency blood required or Build donor profile. 
+Build donor profile leads to - a user authentication interface, Asks for 
+Name - 
+photo -
+Phone no -(hidden)
+Blood type - 
+Adhar/other authentication techniques
+Once the user authentication is done, Profile is visible to the user as well as profiles of many users 
+Rank system for those who have donated more blood - Gamification 
+
+Emergency - Reciever:(Always visible in the top even if it is Donor)
+- Nearest blood banks(via google maps)
+- Nearest blood donors(hard problem)
+Once blood recieved - Donor gets reward points or it appears - Number of lives saved - <number of blood donations>
